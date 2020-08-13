@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+		  "ms-vscode.csharp",
+		  "eamodio.gitlens",
+		  "getgauge.gauge",
+		  "christian-kohler.path-intellisense",
+		  "VisualStudioExptTeam.vscodeintellicode",
+		  "CoenraadS.bracket-pair-colorizer",
+		  "streetsidesoftware.code-spell-checker",
+		  "editorconfig.editorconfig"
+		]
+	},
+	"settings": {
+		"files.associations": {
+			"*.spec": "gauge",
+			"*.cpt": "gauge"
+		},
+		"gauge.launch.enableDebugLogs": true
+	}
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.9.0" />
+    <PackageReference Include="Gauge.CSharp.Lib" Version="0.7.3" />
+    <PackageReference Include="LightInject" Version="6.1.0" />
+  </ItemGroup>
+
+</Project>
